@@ -1,6 +1,6 @@
 import "./assets/style/App.css";
-import "./components/ComponenteNuevo";
-import ComponenteNuevo from "./components/ComponenteNuevo";
+import "./components/componenteNuevo";
+import ComponenteNuevo from "./components/componenteNuevo";
 function App() {
   return (
     <>
